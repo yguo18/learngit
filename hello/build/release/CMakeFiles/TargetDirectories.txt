@@ -1,0 +1,3 @@
+/home/yguo/hello/build/release/CMakeFiles/rebuild_cache.dir
+/home/yguo/hello/build/release/CMakeFiles/edit_cache.dir
+/home/yguo/hello/build/release/CMakeFiles/hello.dir
