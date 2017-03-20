@@ -1,3 +1,0 @@
-/home/yguo/git/Huawei/SDK-gcc/build/CMakeFiles/edit_cache.dir
-/home/yguo/git/Huawei/SDK-gcc/build/CMakeFiles/rebuild_cache.dir
-/home/yguo/git/Huawei/SDK-gcc/build/CMakeFiles/cdn.dir

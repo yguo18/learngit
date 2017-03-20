@@ -1,1 +1,0 @@
-/usr/bin/c++    -O0 -Wall -g -ggdb -std=c++11   CMakeFiles/cdn.dir/io.cpp.o CMakeFiles/cdn.dir/cdn.cpp.o CMakeFiles/cdn.dir/deploy.cpp.o  -o /home/yguo/git/Huawei/SDK-gcc/bin/cdn -rdynamic 
